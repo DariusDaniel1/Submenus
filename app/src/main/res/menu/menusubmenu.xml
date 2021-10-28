@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/manzana"
+        android:id="@+id/manzanaId">
+        <menu>
+            <item android:title="@string/tipoManzanas"
+                android:id="@+id/goldId"/>
+            <item android:title="@string/tipoManzana2"
+                android:id="@+id/pinkId"/>
+        </menu>
+    </item>
+    <item android:title="@string/platano"
+        android:id="@+id/platanoId">
+    </item>
+    <item android:title="@string/pera"
+        android:id="@+id/peraId">
+        <menu>
+            <item android:title="@string/peras"
+                android:id="@+id/peraConferenciaId"/>
+            <item android:title="@string/peras2"
+                android:id="@+id/peraLimoneroId"/>
+        </menu>
+    </item>
+</menu>

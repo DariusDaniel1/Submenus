@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Submenus</string>
+    <string name="manzana">Manzanas</string>
+    <string name="platano">Platanos</string>
+    <string name="pera">Peras</string>
+    <string name="tipoManzanas">Golden</string>
+    <string name="tipoManzana2">Pink Lady</string>
+    <string name="peras">Conferencia</string>
+    <string name="peras2">Limoneras</string>
+</resources>
